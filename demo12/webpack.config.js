@@ -5,6 +5,7 @@ module.exports = {
     bundle1: './main1.jsx',
     bundle2: './main2.jsx'
   },
+
   output: {
     filename: '[name].js'
   },
